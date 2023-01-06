@@ -16,7 +16,7 @@ Nothing it printed if the file does not exist.
 
 
 For purspose of validating that the above program work, I used 
-shell scripts to create a disk partition in *** freebsd *** and added files that I 
+shell scripts to create a disk partition in [freebsd](https://www.freebsd.org/) and added files that I 
 could parse during development. 
 
 The script.sh file contains commands to partition a raw disk using gpart and writes 
